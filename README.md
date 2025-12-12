@@ -6,4 +6,4 @@ Qiyin bo'lgan joyi yo'q
 
 <img src="https://i.ibb.co/fzdhs78T/preview.png" alt="preview image"/>
 
-Demo: <a src="https://mini-marketplace-bay.vercel.app">Link</a>
+Demo: <a href="https://mini-marketplace-bay.vercel.app">Link</a>
