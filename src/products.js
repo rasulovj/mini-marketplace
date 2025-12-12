@@ -7,7 +7,7 @@ async function fetchProducts() {
     renderProducts(products);
   } catch (err) {
     console.error("Failed to get products:", err);
-    productsContainer.innerHTML = "<p>Failed to load products.</p>";
+    productsContainer.innerHTML = "<p>Failed to load products</p>";
   }
 }
 
