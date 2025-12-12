@@ -96,7 +96,7 @@ body {
 
 .btn-primary:active {
   background: #1e40af;
-  transform: scale(0.97);
+  transform: scale(0.9);
 }
 
 .btn-danger {
@@ -110,7 +110,7 @@ body {
 
 .btn-danger:active {
   background: #b91c1c;
-  transform: scale(0.97);
+  transform: scale(0.9);
 }
 
 .cart-summary {

@@ -12,7 +12,7 @@ export default function App() {
       try {
         setItems(JSON.parse(saved));
       } catch (e) {
-        console.error("Failed to parse cart from localStorage", e);
+        console.error("Failed to get cart from localStorage", e);
       }
     }
   }, []);
